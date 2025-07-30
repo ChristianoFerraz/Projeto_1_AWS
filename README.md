@@ -225,9 +225,3 @@ Você agora possui:
 
 ---
 
-### 🔧 Melhorias possíveis:
-
-- Enviar alerta quando o serviço voltar ao ar
-- Monitorar outros serviços (ex: banco de dados)
-- Adicionar gráficos ou painel de status
-- Suporte para Telegram ou Slack
